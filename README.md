@@ -1,38 +1,58 @@
-### example website 
-https://www.cassie.codes/
-
-
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
-<h3 align="center">Frontend Developer | React | TypeScript | Accessibility Enthusiast</h3>
+
+<h3 align="center">
+Frontend Developer | React | TypeScript | Accessibility Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer+with+4%2B+Years+Experience;React+%7C+TypeScript+%7C+JavaScript;Building+Scalable+Web+Applications;Performance+%26+Accessibility+Focused" />
+</p>
 
 <p align="center">
 Frontend Developer with 4+ years of experience building scalable and user-friendly web applications using React, JavaScript, and TypeScript.
 </p>
 
 <p align="center">
-I enjoy turning complex problems into simple, intuitive interfaces while focusing on performance, accessibility, and clean, maintainable code.
+I enjoy turning complex problems into simple interfaces while focusing on performance, accessibility, and clean maintainable code.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# 👀 Profile Views
 
-### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- Redux / Context API
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Visg98&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-### UI & Styling
-- HTML5
-- CSS3
-- SCSS
+---
 
-### Tools & Practices
-- REST APIs
-- Playwright (Testing)
-- Accessibility (WCAG)
+# 🚀 Tech Stack
+
+### 💻 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"/>
+</p>
+
+### 🎨 UI & Styling
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass"/>
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Accessibility-WCAG-blue?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -40,94 +60,88 @@ I enjoy turning complex problems into simple, intuitive interfaces while focusin
 
 ## 🧩 Scratch Pipeline Builder
 
-A visual pipeline builder where users can create and connect nodes to design workflows.
+Visual pipeline builder where users create and connect nodes to design workflows.
 
-**Key Features**
+**Tech:** React, React Flow, JavaScript
 
-- Drag-and-drop node-based UI
-- Custom reusable node components
-- Edge connections between nodes
-- Dynamic node configuration
-- Modular frontend architecture
-
-**Tech:** React, React Flow, JavaScript, CSS
-
-**Live Demo:**  
+🔗 Live Demo  
 https://scratch-starter-vishal.netlify.app/
 
-**Repository:**  
+🔗 Repository  
 https://github.com/Visg98/scratch-starter-project
 
 ---
 
 ## 🎬 Movie Explorer
 
-A responsive React application that allows users to discover movies using a public movie API.
+React app to discover movies using API integration with pagination and skeleton loading.
 
-**Key Features**
+**Tech:** React, JavaScript, REST API
 
-- Movie listing with pagination
-- Loading skeleton UI
-- Responsive movie cards
-- Rating overlay on posters
-- Optimized image loading
-
-**Tech:** React, JavaScript, REST API, CSS
-
-**Live Demo:**  
+🔗 Live Demo  
 https://movie-explorer-ap.netlify.app/
 
-**Repository:**  
+🔗 Repository  
 https://github.com/Visg98/Movie-Explorer
 
 ---
 
 ## 🧮 Home Loan Borrowing Calculator (ANZ Bank)
 
-Developed a dynamic financial calculator for **ANZ Bank** that helps users estimate their borrowing capacity.
+Financial calculator that helps users estimate borrowing capacity.
 
-**Key Features**
+**Tech:** React, TypeScript, APIs
 
-- Complex financial calculation logic
-- Form validation and dynamic updates
-- API integration
-- Accessibility-compliant UI
-
-**Tech:** React, TypeScript, REST APIs
+🔗 Live Project  
+https://www.anz.com.au/personal/home-loans/calculators-tools/borrowing-power-calculator/
 
 ---
 
 ## 📍 Branch & ATM Locator (ANZ Bank)
 
-Built a location-based search feature for **ANZ Bank** that allows users to find nearby bank branches and ATMs.
+Location search tool for finding nearby bank branches and ATMs.
 
-**Key Features**
+**Tech:** React, TypeScript, Map APIs
 
-- Location-based search
-- Map integration
-- Filtering options for branches and ATMs
-- Optimized performance and user experience
-
-**Tech:** React, TypeScript, REST APIs, Maps Integration
+🔗 Live Project  
+https://www.anz.com.au/locations/
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Visg98&show_icons=true&theme=default" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Visg98&show_icons=true&theme=tokyonight" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visg98&layout=compact" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visg98&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
 
-# 🤝 Connect with Me
+# 📈 Contribution Graph
 
-💼 LinkedIn  
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Visg98&theme=github-compact" />
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+LinkedIn  
 https://www.linkedin.com/in/vishalgupta-dev/
 
-📧 Email  
+Email  
 vishalgvibrant98@gmail.com
+
+</p>

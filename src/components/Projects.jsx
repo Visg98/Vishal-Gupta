@@ -3,8 +3,18 @@ import './Projects.css'
 
 const featuredProjects = [
   {
+    id: 0,
+    title: 'Build Pipeline',
+    description:
+      'A JavaScript-based build pipeline project that automates the process of compiling, bundling, and deploying web applications. Streamlines development workflows with configurable build steps, making it easy to manage complex frontend build processes.',
+    tech: ['React', 'Node.js', 'Build Tools', 'Automation'],
+    github: 'https://github.com/Visg98/Build-Pipeline',
+    live: 'https://build-pipeline.netlify.app/',
+    icon: '⚙️',
+  },
+  {
     id: 1,
-    title: 'Scratch Pipeline Builder',
+    title: 'Scratch Starter Project',
     description:
       'A visual pipeline builder where users can create and connect nodes to design complex workflows. Features a drag-and-drop interface built with React Flow, custom reusable node components, and a modular frontend architecture that makes it intuitive to compose data pipelines.',
     tech: ['React', 'React Flow', 'JavaScript', 'CSS'],

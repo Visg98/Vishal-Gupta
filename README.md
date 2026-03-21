@@ -22,7 +22,7 @@ I enjoy turning complex problems into simple, intuitive interfaces while focusin
 
 </p>
 
-🔗 **Live Portfolio:**  
+🔗 **Live Portfolio:**
 https://vishal-gupta-portfolio-web.netlify.app/
 
 ---
@@ -58,23 +58,41 @@ https://vishal-gupta-portfolio-web.netlify.app/
 
 ---
 
+## ⚙️ Build Pipeline
+
+A JavaScript-based build pipeline project that automates the process of compiling, bundling, and deploying web applications.
+
+### Key Features
+
+• Configurable build steps
+• Frontend build process automation
+• Streamlined development workflows
+• Easy management of complex build pipelines
+
+**Tech:** JavaScript, Node.js, Build Tools, Automation
+
+💻 Repository
+https://github.com/Visg98/Build-Pipeline
+
+---
+
 ## 🧩 Scratch Pipeline Builder
 
 A **visual pipeline builder** where users can create and connect nodes to design workflows.
 
 ### Key Features
 
-• Drag-and-drop node based UI  
-• Dynamic node creation  
-• Edge connections between nodes  
-• Modular component architecture  
+• Drag-and-drop node based UI
+• Dynamic node creation
+• Edge connections between nodes
+• Modular component architecture
 
 **Tech:** React, React Flow, JavaScript, CSS
 
-🌐 Live Demo  
+🌐 Live Demo
 https://scratch-starter-vishal.netlify.app/
 
-💻 Repository  
+💻 Repository
 https://github.com/Visg98/scratch-starter-project
 
 ---
@@ -85,18 +103,18 @@ A responsive React application to **discover movies using API integration**.
 
 ### Key Features
 
-• Movie listing with pagination  
-• Skeleton loading UI  
-• Responsive movie cards  
-• Rating overlay on posters  
-• Optimized image loading  
+• Movie listing with pagination
+• Skeleton loading UI
+• Responsive movie cards
+• Rating overlay on posters
+• Optimized image loading
 
 **Tech:** React, JavaScript, REST API
 
-🌐 Live Demo  
+🌐 Live Demo
 https://movie-explorer-ap.netlify.app/
 
-💻 Repository  
+💻 Repository
 https://github.com/Visg98/Movie-Explorer
 
 ---
@@ -107,14 +125,14 @@ Developed a **financial calculator for ANZ Bank** that helps users estimate borr
 
 ### Key Features
 
-• Complex financial calculation logic  
-• Dynamic form validation  
-• API integration  
-• Accessibility compliant UI  
+• Complex financial calculation logic
+• Dynamic form validation
+• API integration
+• Accessibility compliant UI
 
 **Tech:** React, TypeScript, REST APIs
 
-🌐 Live Page  
+🌐 Live Page
 https://www.anz.com.au/personal/home-loans/calculators-tools/borrowing-power-calculator/
 
 ---
@@ -125,21 +143,37 @@ Built a **location search tool** that helps users find nearby bank branches and 
 
 ### Key Features
 
-• Location based search  
-• Map integration  
-• Filtering options  
-• Optimized user experience  
+• Location based search
+• Map integration
+• Filtering options
+• Optimized user experience
 
 **Tech:** React, TypeScript, REST APIs
 
-🌐 Live Page  
+🌐 Live Page
 https://www.anz.com.au/locations/
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Visg98&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visg98&layout=compact" />
+</p>
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="center">
+
+<a href="tel:+919113915451">
+<img src="https://img.shields.io/badge/Phone-%2B91%209113915451-brightgreen?style=for-the-badge&logo=phone"/>
+</a>
 
 <a href="https://www.linkedin.com/in/vishalgupta-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Gupta-blue?style=for-the-badge&logo=linkedin"/>

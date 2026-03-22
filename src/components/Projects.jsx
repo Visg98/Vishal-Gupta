@@ -6,8 +6,8 @@ const featuredProjects = [
     id: 0,
     title: 'Build Pipeline',
     description:
-      'A JavaScript-based build pipeline project that automates the process of compiling, bundling, and deploying web applications. Streamlines development workflows with configurable build steps, making it easy to manage complex frontend build processes.',
-    tech: ['React', 'Node.js', 'Build Tools', 'Automation'],
+      'A visual pipeline builder where users can create and connect nodes to design complex workflows. Features a drag-and-drop interface built with React Flow, custom reusable node components, and a modular frontend architecture that makes it intuitive to compose data pipelines.',
+    tech: ['React', 'React Flow', 'JavaScript', 'CSS', 'Python', 'Fast API'],
     github: 'https://github.com/Visg98/Build-Pipeline',
     live: 'https://build-pipeline.netlify.app/',
     icon: '⚙️',
@@ -16,8 +16,8 @@ const featuredProjects = [
     id: 1,
     title: 'Scratch Starter Project',
     description:
-      'A visual pipeline builder where users can create and connect nodes to design complex workflows. Features a drag-and-drop interface built with React Flow, custom reusable node components, and a modular frontend architecture that makes it intuitive to compose data pipelines.',
-    tech: ['React', 'React Flow', 'JavaScript', 'CSS'],
+      'Developed a beginner-friendly Scratch starter project to simplify building interactive animations and games, providing a structured foundation to learn core programming concepts like events, loops, and logic through block-based coding. Designed reusable components and a pre-configured project setup to enable faster development, while improving accessibility and ease of use through well-organized assets, scripts, and workflows.',
+    tech: ['React', 'Build Tools', 'Automation', 'JavaScript', 'CSS'],
     github: 'https://github.com/Visg98/scratch-starter-project',
     live: 'https://scratch-starter-vishal.netlify.app/',
     icon: '🧩',
